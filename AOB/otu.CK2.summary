@@ -1,0 +1,2 @@
+label	sobs	shannon	shannon_lci	shannon_hci	simpson	simpson_lci	simpson_hci	ace	ace_lci	ace_hci	chao	chao_lci	chao_hci	coverage
+0.97	78.000000	1.569946	1.549184	1.590708	0.297395	0.292541	0.302249	78.861314	78.155776	82.762360	78.021277	78.000430	79.052111	0.999865
